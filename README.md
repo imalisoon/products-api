@@ -27,10 +27,10 @@ $ uvicorn main:app
 
 - essa será sua saída se tudo estiver correto.
 
-![[screenshot_api_running.png]]
+![api running](screenshot_api_running.png)
 
 Agora só acessar `http://127.0.0.1:8000/docs`
 
-![[screenshot_api_webdoc.png]]
+![api webdoc](screenshot_api_webdoc.png)
 
 
