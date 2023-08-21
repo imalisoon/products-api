@@ -7,21 +7,21 @@ Pra rodar aí na tua máquina e coisa simples, basta instalar as dependências e
 
 1. Clona o projeto usando o terminal:
 ```shell
-$ git clone https://gitHub.com/imalisoon/products-api
+git clone https://gitHub.com/imalisoon/products-api
 ```
 
 2. Navega até o diretório e instalar as dependências:
 ```shell
 
-$ cd products-api/
-$ pip install -r requirements.txt
+cd products-api/
+pip install -r requirements.txt
 
 ```
 
 3. Agora só rodar🚀:
 ```shell
 
-$ uvicorn main:app
+uvicorn main:app
 
 ```
 
